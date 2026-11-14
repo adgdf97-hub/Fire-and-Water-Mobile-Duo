@@ -1,0 +1,10 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+# Original game file is NOT redistributed in this repo (copyright). See README.
+app/src/main/assets/game/*.swf
+# Ruffle is fetched by scripts/fetch_ruffle.sh
+app/src/main/assets/web/ruffle/
+dist/
